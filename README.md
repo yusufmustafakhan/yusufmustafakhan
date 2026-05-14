@@ -1,58 +1,98 @@
-# Hi there, I'm Yusuf Mustafa Khan 👋
+<h2 align="left">Hi 👋! I'm Yusuf Mustafa Khan</h2>
 
-## About Me
-Cloud Operations & Microsoft CSP professional with experience in customer onboarding, licensing management, vendor/platform setup, ITSM processes, and supporting MSP operations. Passionate about enabling seamless cloud transitions, operational excellence, and improving customer experience through efficient processes, automation, and collaboration.
+<h4 align="left">
+Cloud Operations | Microsoft CSP | MSP Support | ITSM & Jira Service Management Professional from India 🇮🇳
+</h4>
 
-## What I Do
+###
+
+<p align="left">
+Experienced in <strong>Cloud Operations, Microsoft CSP, Vendor & Platform Setup, ITSM Processes, Jira Service Management, Customer Onboarding, Licensing Management, and MSP Support.</strong><br><br>
+
+Passionate about improving operational efficiency, enabling seamless cloud transitions, optimizing service workflows, and supporting business success through scalable platform and process management.
+</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufmustafakhan&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufmustafakhan&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+</div>
+
+###
+
+<img align="right" height="180" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
+### 🚀 What I Do
+
 🔹 Microsoft CSP & Cloud Operations Support  
 🔹 Direct-to-Indirect Customer Transitions  
-🔹 Microsoft Licensing & Subscription Management  
 🔹 Vendor & Platform Setup / Access Configuration  
+🔹 Microsoft Licensing & Subscription Management  
 🔹 MSP Operational Support & Customer Success  
+🔹 IT Service Management (ITSM)  
+🔹 Jira Service Management Administration & Workflow Support  
 🔹 Customer Onboarding & Renewal Coordination  
-🔹 IT Service Management (ITSM) & Service Operations  
-🔹 Jira Service Management Administration & Process Support  
-🔹 Process Improvement & Operational Tracking  
+🔹 Process Improvement & Operational Excellence  
 
-## Core Skills & Expertise
-### Cloud & Platform Operations
-- Microsoft CSP Operations  
-- Azure Subscription & Tenant Support  
-- Licensing & Subscription Management  
-- Vendor Access Configuration  
-- Cloud Onboarding & Transition Management  
-- MSP Support Operations  
+###
 
-### ITSM & Service Management
-- IT Service Management (ITSM) Processes  
-- Incident, Service Request & Escalation Management  
-- Jira Service Management (JSM) Administration & Workflow Coordination  
-- Service Operations & Process Optimization  
-- Cross-functional Stakeholder Coordination  
-- SLA & Operational Governance Support  
+### 🛠️ Skills & Tools
 
-### Automation & Tools
-- PowerShell (Basic Automation & RBAC Scripting)  
-- Microsoft Partner Center  
-- Jira Service Management  
-- Service Desk & Ticketing Platforms  
-- Operational Reporting & Tracking  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="35" alt="powershell logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" alt="windows logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo" />
+</div>
 
-## Currently Working On
-🔭 Optimizing cloud onboarding workflows, vendor/platform setup, and service operations to improve efficiency and customer experience for Cloud Operations and MSP teams.
+<br>
 
-## Currently Learning
-🌱 Azure, PowerShell automation, ITSM best practices, Jira Service Management enhancements, and advanced Microsoft cloud solutions.
+![Jira Service Management](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ITSM](https://img.shields.io/badge/ITSM-Service_Operations-blue?style=for-the-badge)
+![Microsoft CSP](https://img.shields.io/badge/Microsoft-CSP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Cloud Operations](https://img.shields.io/badge/Cloud-Operations-00A4EF?style=for-the-badge)
+![MSP Support](https://img.shields.io/badge/MSP-Support-success?style=for-the-badge)
 
-## Collaboration & Interests
-👯 Open to collaborating on Cloud Operations, Microsoft CSP processes, ITSM improvements, Jira Service Management optimization, and operational excellence initiatives.
+###
 
-## Ask Me About
-💬 Microsoft CSP, Azure subscriptions, licensing, onboarding, vendor setup, ITSM processes, Jira Service Management, renewals, and cloud operational workflows.
+### 🌱 Currently Learning
 
-## Connect With Me
-📫 LinkedIn: Add your LinkedIn profile here  
-📧 Email: Add your professional email here
+- Azure & Cloud Infrastructure
+- PowerShell Automation
+- Advanced ITSM Practices
+- Jira Service Management Optimization
+- Cloud Platform Operations
 
-## Fun Fact
-⚡ I enjoy streamlining operational processes, optimizing service workflows, and solving platform/setup challenges to make cloud and MSP operations more efficient.
+###
+
+### 💬 Ask Me About
+
+Microsoft CSP • Azure Subscriptions • Licensing • Vendor Setup • MSP Support • ITSM • Jira Service Management • Customer Onboarding • Renewals
+
+###
+
+### 📫 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/yusuf-mustafa-khan-b91283174">
+    <img src="https://img.shields.io/badge/LinkedIn-Yusuf%20Mustafa%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
+
+⭐ Focused on enabling seamless cloud operations, vendor onboarding success, and IT service excellence.

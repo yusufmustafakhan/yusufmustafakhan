@@ -134,11 +134,11 @@ Passionate about <strong>Cloud Operations, Vendor & Platform Setup, Microsoft Li
 
 ---
 
+## 🐍 Contribution Activity
+
 <div align="center">
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/yusufmustafakhan/yusufmustafakhan/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/yusufmustafakhan/yusufmustafakhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 

@@ -1,98 +1,151 @@
-<h2 align="left">Hi 👋! I'm Yusuf Mustafa Khan</h2>
+<div align="center">
 
-<h4 align="left">
-Cloud Operations | Microsoft CSP | MSP Support | ITSM & Jira Service Management Professional from India 🇮🇳
-</h4>
+# Hi 👋 I'm Yusuf Mustafa Khan
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Cloud+Operations+Professional;Microsoft+CSP+%7C+MSP+Support;ITSM+%26+Jira+Service+Management;Vendor+%26+Platform+Setup+Specialist;PowerShell+Automation+%7C+Partner+Center)](https://git.io/typing-svg)
 
-<p align="left">
-Experienced in <strong>Cloud Operations, Microsoft CSP, Vendor & Platform Setup, ITSM Processes, Jira Service Management, Customer Onboarding, Licensing Management, and MSP Support.</strong><br><br>
+### Cloud Operations | Microsoft CSP | MSP Support | ITSM & Jira Service Management
 
-Passionate about improving operational efficiency, enabling seamless cloud transitions, optimizing service workflows, and supporting business success through scalable platform and process management.
+<p>
+Passionate about <strong>Cloud Operations, Vendor & Platform Setup, Microsoft Licensing, MSP Support, ITSM, Jira Service Management, and Workflow Automation</strong>
 </p>
 
-###
+</div>
+
+---
+
+## 🚀 Professional Summary
+
+💼 Cloud Operations & Microsoft CSP Professional  
+☁️ Supporting MSP Operations, Vendor & Platform Setup  
+🎫 ITSM & Jira Service Management Expertise  
+⚙️ PowerShell Automation & Azure RBAC Management  
+📈 Focused on Operational Excellence & Customer Success  
+🔐 Compliance, Governance & Process Optimization
+
+---
+
+## 📊 Impact & KPI Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufmustafakhan&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufmustafakhan&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+
+![](https://img.shields.io/badge/Tenants_Handled-400%2B-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Issue_Reduction-75%25-success?style=for-the-badge)
+![](https://img.shields.io/badge/Compliance-Governance-28A745?style=for-the-badge)
+![](https://img.shields.io/badge/Partner-Center-0052CC?style=for-the-badge)
+![](https://img.shields.io/badge/Workflow-Automation-FF9800?style=for-the-badge)
+
 </div>
 
-###
+---
 
-<img align="right" height="180" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+## 🛠️ Core Skills & Expertise
 
-### 🚀 What I Do
+### ☁️ Cloud & Platform Operations
 
-🔹 Microsoft CSP & Cloud Operations Support  
-🔹 Direct-to-Indirect Customer Transitions  
-🔹 Vendor & Platform Setup / Access Configuration  
-🔹 Microsoft Licensing & Subscription Management  
-🔹 MSP Operational Support & Customer Success  
-🔹 IT Service Management (ITSM)  
-🔹 Jira Service Management Administration & Workflow Support  
-🔹 Customer Onboarding & Renewal Coordination  
-🔹 Process Improvement & Operational Excellence  
+<p align="left">
 
-###
+<img src="https://img.shields.io/badge/Microsoft-CSP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-Cloud_Operations-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSP-Support-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Partner-Center-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vendor-Platform_Setup-blueviolet?style=for-the-badge"/>
 
-### 🛠️ Skills & Tools
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="35" alt="powershell logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" alt="windows logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo" />
+### 🎫 ITSM & Service Management
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/ITSM-Service_Management-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Incident-Management-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SLA-Tracking-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Compliance-Governance-green?style=for-the-badge"/>
+
+</p>
+
+### ⚡ Automation & Tools
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45"/>
+
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yusufmustafakhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yusufmustafakhan&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<br>
+<div align="center">
 
-![Jira Service Management](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ITSM](https://img.shields.io/badge/ITSM-Service_Operations-blue?style=for-the-badge)
-![Microsoft CSP](https://img.shields.io/badge/Microsoft-CSP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Cloud Operations](https://img.shields.io/badge/Cloud-Operations-00A4EF?style=for-the-badge)
-![MSP Support](https://img.shields.io/badge/MSP-Support-success?style=for-the-badge)
+<img src="https://streak-stats.demolab.com?user=yusufmustafakhan&theme=tokyonight&hide_border=true" />
 
-###
-
-### 🌱 Currently Learning
-
-- Azure & Cloud Infrastructure
-- PowerShell Automation
-- Advanced ITSM Practices
-- Jira Service Management Optimization
-- Cloud Platform Operations
-
-###
-
-### 💬 Ask Me About
-
-Microsoft CSP • Azure Subscriptions • Licensing • Vendor Setup • MSP Support • ITSM • Jira Service Management • Customer Onboarding • Renewals
-
-###
-
-### 📫 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/yusuf-mustafa-khan-b91283174">
-    <img src="https://img.shields.io/badge/LinkedIn-Yusuf%20Mustafa%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
 </div>
 
-###
+---
 
-<br clear="both">
+## 📌 Current Focus
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+🌱 Azure & Cloud Infrastructure  
+🌱 PowerShell Automation  
+🌱 Workflow Optimization  
+🌱 Jira Service Management Enhancements  
+🌱 Cloud Platform Operations
 
-###
+---
 
-⭐ Focused on enabling seamless cloud operations, vendor onboarding success, and IT service excellence.
+## 💬 Ask Me About
+
+**Microsoft CSP • Azure Subscriptions • Licensing • Vendor Setup • MSP Support • ITSM • Jira Service Management • Compliance • Partner Center • Workflow Automation**
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yusuf-mustafa-khan-b91283174">
+<img src="https://img.shields.io/badge/LinkedIn-Yusuf%20Mustafa%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yusufkhan247@yahoo.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/yusufmustafakhan/yusufmustafakhan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Focused on enabling seamless cloud operations, vendor onboarding success, ITSM excellence, compliance, and MSP operational efficiency.**
+
+</div>

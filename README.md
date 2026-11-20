@@ -29,8 +29,6 @@ Driving <strong>technical partner strategy, enablement, and ecosystem growth</st
 
 ## 📊 Impact & KPI Dashboard
 
-## 📊 Impact & KPI Dashboard
-
 <p align="center">
 <img src="https://img.shields.io/badge/Customer_Tenants-400%2B-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="400+ Customer Tenants"/>
 <img src="https://img.shields.io/badge/Revenue_Exposure-%24100M%2B-28A745?style=for-the-badge" alt="$100M+ Revenue Exposure"/>

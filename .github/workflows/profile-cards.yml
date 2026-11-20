@@ -13,9 +13,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: tokyonight
+          AUTO_PUSH: false
+
+      - name: Show generated files
+        run: ls -R profile-summary-card-output | head -40
+
+      - name: Save cards to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          git commit -m "Update profile summary cards" || echo "No changes to commit"
+          git push

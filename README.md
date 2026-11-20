@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Yusuf Mustafa Khan
 
-[\![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Technical+Partner+Alliance+Manager+%40+ALIANDO;Microsoft+CSP+%7C+Partner+Center+%7C+Marketplace;Partner+Enablement+%26+Governance;Azure+%7C+Microsoft+365+%7C+Copilot;Bridging+Microsoft%2C+Distributors+%26+Partners)]
+[\![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Technical+Partner+Alliance+Manager+%40+ALIANDO;Microsoft+CSP+%7C+Partner+Center+%7C+Marketplace;Partner+Enablement+%26+Governance;Azure+%7C+Microsoft+365+%7C+Copilot;Bridging+Microsoft%2C+Distributors+%26+Partners)](https://git.io/typing-svg)
 
 ### Technical Partner Alliance Manager @ ALIANDO | Microsoft CSP | Partner Center | Partner Enablement & Governance
 

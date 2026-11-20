@@ -122,18 +122,20 @@ Driving <strong>technical partner strategy, enablement, and ecosystem growth</st
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img src="https://raw.githubusercontent.com/yusufmustafakhan/yusufmustafakhan/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%"/>
+</p>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yusufmustafakhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yusufmustafakhan&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/yusufmustafakhan/yusufmustafakhan/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="170"/>
+<img src="https://raw.githubusercontent.com/yusufmustafakhan/yusufmustafakhan/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" height="170"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=yusufmustafakhan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yusufmustafakhan&theme=tokyonight&hide_border=true" />
-
-</div>
+---
 
 ---
 

@@ -29,15 +29,17 @@ Driving <strong>technical partner strategy, enablement, and ecosystem growth</st
 
 ## 📊 Impact & KPI Dashboard
 
-<div align="center">
+## 📊 Impact & KPI Dashboard
 
-\![](https://img.shields.io/badge/Customer_Tenants-400%2B-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-\![](https://img.shields.io/badge/Revenue_Exposure-%24100M%2B-28A745?style=for-the-badge)
-\![](https://img.shields.io/badge/Recurring_Incidents-↓75%25-success?style=for-the-badge)
-\![](https://img.shields.io/badge/Microsoft_Certifications-5-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
-\![](https://img.shields.io/badge/Experience-6%2B_Years-FF9800?style=for-the-badge)
+<p align="center">
+<img src="https://img.shields.io/badge/Customer_Tenants-400%2B-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="400+ Customer Tenants"/>
+<img src="https://img.shields.io/badge/Revenue_Exposure-%24100M%2B-28A745?style=for-the-badge" alt="$100M+ Revenue Exposure"/>
+<img src="https://img.shields.io/badge/Recurring_Incidents-75%25_Fewer-success?style=for-the-badge" alt="75% Fewer Recurring Incidents"/>
+<img src="https://img.shields.io/badge/Microsoft_Certifications-5-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="5 Microsoft Certifications"/>
+<img src="https://img.shields.io/badge/Experience-6%2B_Years-FF9800?style=for-the-badge" alt="6+ Years Experience"/>
+</p>
 
-</div>
+---
 
 ---
 
